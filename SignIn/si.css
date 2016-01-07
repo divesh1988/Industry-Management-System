@@ -1,0 +1,61 @@
+body
+	{
+		background-image:url("images/bg1.jpg")
+	}
+.text
+	{
+		text-align:center;
+	}
+#align
+	{
+		margin-top:-10%;
+	}
+.radius
+	{
+		border-radius:8px;
+		background-color:light blue;
+		
+	}
+input[type=text],[type=password]
+	{
+		padding:8px 15px;
+		border:none;
+		
+	}
+
+input[type=submit] 
+	{
+		border:none;
+		cursor:pointer;
+		padding:10px 32px;
+		border-radius:8px;
+		background-color:#81BEF7;
+	}
+input[type=text]:focus 
+	{
+		background-color: lightblue;
+		
+	}
+input[type=password]:focus 
+	{
+		background-color: lightblue;
+		
+	}
+#heading
+	{
+		font-size:50px;
+		padding-top:7%;
+	}
+#para
+	{
+		font-size:17px;
+	}
+#img
+	{
+		width:24%;
+		border-radius:15px;
+	}
+#imglog
+	{
+		width:12%
+	}
